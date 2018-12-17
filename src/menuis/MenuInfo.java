@@ -326,6 +326,7 @@ public class MenuInfo extends javax.swing.JFrame {
             setBounds(500,700,789,410);
             setLocation(250,1);
         }
+         System.out.println("adsf");
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
